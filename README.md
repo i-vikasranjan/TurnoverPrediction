@@ -1,4 +1,4 @@
-## **HR Analytics: Predicting Employee Turnover**
+## **Predicting Employee Turnover**
 <img src="https://static1.squarespace.com/static/5144a1bde4b033f38036b7b9/t/56ab72ebbe7b96fafe9303f5/1454076676264/"/>
 
 
@@ -36,11 +36,17 @@ _I’ll be following a typical data science pipeline, which is call “OSEMN” 
     
 4.  **M**odeling the data will tell us whether an employee will leave or not.
     
-5.  I**N**terpreting the data is last. What are the features which influence whether an employee will leave or not?
+5.  **N**terpreting the data is last. What are the features which influence whether an employee will leave or not?
 
-## Deliverable
+ ## Contributing
+We welcome contributions from the community. If you would like to contribute, please follow these steps:
 
-- [Data](https://github.com/io99/Employee_turnover_prediction/blob/master/HR.csv)
- - [Analysis and Modelling ](https://github.com/io99/Employee_turnover_prediction/blob/master/employee_turnover_prediction.ipynb)
-# Contact
--   If you have any questions, feel free to contact me.
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
+## Contact
+For any queries regarding this project, please open an issue in the repository.
+
